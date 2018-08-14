@@ -18,6 +18,7 @@ import LView2 from './LView2'
 export default class ListViewTest extends Component {
 console.log('hello sir');
 console.log('上传时间2018-8-14 下午5点44份11秒');
+console.log('修改日期：2018-8-14 17:46:58');
   render() {
     return (
      <LView2 />
