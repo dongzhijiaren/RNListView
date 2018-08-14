@@ -17,6 +17,12 @@ import LView2 from './LView2'
 
 export default class ListViewTest extends Component {
 
+  constructor(props){
+    super(props);
+    this.state=({
+
+    })
+  }
 
   render() {
     return (
