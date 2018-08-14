@@ -16,7 +16,7 @@ import LView from './LView'
 import LView2 from './LView2'
 
 export default class ListViewTest extends Component {
-
+console.log('hello sir');
 
   render() {
     return (
